@@ -1,3 +1,3 @@
-feature 2
+conflict 2
 
 feature done
