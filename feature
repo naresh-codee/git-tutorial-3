@@ -1,5 +1,5 @@
 
-conflict 1
+feature2
 
 
 feature done
